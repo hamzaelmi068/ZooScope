@@ -8,4 +8,7 @@ ZooScope is a machine learning project designed to identify and classify animals
 - Real-Time Predictions: Makes predictions on new data instantly, providing accurate classifications of animals.
 - Accuracy Metrics: Provides detailed metrics on the accuracy of the model's predictions, such as Euclidean Algorithm, Jaccards Algorithm, Hammings Algo, etc.
 
+## Resources
+- https://towardsdatascience.com/9-distance-measures-in-data-science-918109d069fa
+- https://myweb.sabanciuniv.edu/rdehkharghani/files/2016/02/The-Morgan-Kaufmann-Series-in-Data-Management-Systems-Jiawei-Han-Micheline-Kamber-Jian-Pei-Data-Mining.-Concepts-and-Techniques-3rd-Edition-Morgan-Kaufmann-2011.pdf
 
