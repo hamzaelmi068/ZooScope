@@ -2,21 +2,21 @@
 # target : dependencies ....
 # 		gcc -Wall -std=c99 -c fileName.c .
 
-# replace A1.c with elmiHamzaA1... before submission
+# replace A1.c with elmiH... before submission
 
-elmiHamzaA1: elmiHamzaA1.o elmiHamzaA1Main.o 
-	gcc -Wall -std=c99 elmiHamzaA1.o elmiHamzaA1Main.o -o elmiHamzaA1 -lm
+elmiH: elmiH.o elmiHMain.o 
+	gcc -Wall -std=c99 elmiH.o elmiHMain.o -o elmiH -lm
 
-elmiHamzaA1.o: elmiHamzaA1.c
-	gcc -Wall -std=c99 -c elmiHamzaA1.c
+elmiH.o: elmiH.c
+	gcc -Wall -std=c99 -c elmiH.c
 
-elmiHamzaA1Main.o: elmiHamzaA1Main.c
-	gcc -Wall -std=c99 -c elmiHamzaA1Main.c
+elmiHMain.o: elmiHMain.c
+	gcc -Wall -std=c99 -c elmiHMain.c
 
 clean: # this is useful for removes the generated object files and the executable
-	rm *.o elmiHamzaA1
+	rm *.o elmiH
 
-# we can run it by ./elmiHamzaA1, and use make clean to clean the object files generated as desired
+# we can run it by ./elmiH, and use make clean to clean the object files generated as desired
 
 
 
