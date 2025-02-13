@@ -1,7 +1,9 @@
 # ZooScope
 
 ## Overview
-ZooScope is a machine learning project designed to identify and classify animals in a zoo. The application uses a dataset of animals' features to predict their class labels. The project aims to demonstrate the capabilities of machine learning in real-world applications, specifically in the field of animal identification and conservation.
+ZooScope is a machine learning project designed to identify and classify animals in a zoo. The application uses a dataset of animals' features to predict their class labels. The project aims to demonstrate the capabilities of machine learning in real-world applications, specifically in the field of animal identification and conservation. 
+
+Implemented distance functions, including **Hamming, Euclidean, and Jaccard** to evaluate classification accuracy. 
 
 ## Features
 - Animal Classification: Utilizes machine learning algorithms to classify animals into their respective classes based on a set of features.
