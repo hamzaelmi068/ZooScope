@@ -5,6 +5,10 @@ ZooScope is a machine learning project designed to identify and classify animals
 
 Implemented distance functions, including **Hamming, Euclidean, and Jaccard** to evaluate classification accuracy. 
 
+
+https://github.com/user-attachments/assets/4062c035-7caf-462a-9655-3c3b608316fb
+
+
 ## Features
 - Animal Classification: Utilizes machine learning algorithms to classify animals into their respective classes based on a set of features.
 - Real-Time Predictions: Makes predictions on new data instantly, providing accurate classifications of animals.
